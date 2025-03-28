@@ -21,6 +21,12 @@
   <img height="150em" src="https://streak-stats.demolab.com?user=AdrianKoll&theme=tokyonight&hide_border=true"/>
 </a>
 
-![snake animation](https://github.com/<AdrianKoll>/<AdrianKoll>/blob/output/github-contribution-grid-snake2.svg)
+## 🐍 Animação de Contribuições
+
+## 🐍 Animação de Contribuições
+
+![Snake animation](https://raw.githubusercontent.com/AdrianKoll/output/github-contribution-grid-snake.svg)
+
+
 
 </div>
