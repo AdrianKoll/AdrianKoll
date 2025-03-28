@@ -10,7 +10,7 @@
 
 <p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Faculdade de Engenharia de Sorocaba. Atualmente trabalho com Go e estudo Java paralelamente.
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
-
+  
 #
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
@@ -37,6 +37,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25" alt="git logo" />
   <img width="8" />
+
 </div>
 
 #
@@ -53,8 +54,10 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 #
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdrianKoll/AdrianKoll/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdrianKoll/AdrianKoll/output/github-contribution-grid-snake.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AdrianKoll/AdrianKoll/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdrianKoll/AdrianKoll/output/github-contribution-grid-snake-dark.svg?color_snake=00008B&color_bg=0000FF">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdrianKoll/AdrianKoll/output/github-contribution-grid-snake.svg?color_snake=00008B&color_bg=0000FF">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AdrianKoll/AdrianKoll/output/github-contribution-grid-snake.svg?color_snake=00008B&color_bg=0000FF">
+  </picture>
+</div>
