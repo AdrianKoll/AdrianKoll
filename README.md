@@ -8,8 +8,7 @@
 
 #
 
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Faculdade de Engenharia de Sorocaba. Atualmente trabalho com Go e estudo Java paralelamente.
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+<p align="center">estudante de Engenharia de Software na Faculdade Anhanguera. Tenho paixão por tecnologia e estou sempre em busca de aprender mais e aplicar meus conhecimentos em projetos práticos. Atualmente, foco no desenvolvimento back-end, front-end e full-stack, explorando ferramentas modernas e melhores práticas no mundo da programação.
   
 #
 
