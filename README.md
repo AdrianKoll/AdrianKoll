@@ -1,16 +1,26 @@
-## Hi there 👋
+<div align="1%">
+  
+# Olá! Me chamo Adrian Kauã!
 
-<!--
-**AdrianKoll/AdrianKoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Faculdade:** Bacharelado em Engenharia de Software  
+💻 **Atualmente estudando:** HTML, CSS e JavaScript  
+🔎 **Pronomes:** Ele/Dele  
 
-Here are some ideas to get you started:
+## 🌟 Minhas Estatísticas no GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AdrianKoll&show_icons=true&theme=tokyonight"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianKoll&layout=compact&theme=tokyonight"/>
+</a>
+
+## 🌟 Contribuições ao longo do tempo
+
+<a href="https://git.io/streak-stats">
+  <img height="150em" src="https://streak-stats.demolab.com?user=AdrianKoll&theme=tokyonight&hide_border=true"/>
+</a>
+
+![snake animation](https://github.com/<AdrianKoll>/<AdrianKoll>/blob/output/github-contribution-grid-snake2.svg)
+
+</div>
