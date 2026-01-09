@@ -35,9 +35,14 @@
     <img width="8" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo" />
     <img width="8" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo" />
+    <img width="8" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" alt="postgresql logo" />
     <img width="8" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25" alt="git logo" />
+    <img width="8" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="25" alt="kotlin logo" />
+
   </div>
 
 #
@@ -45,12 +50,12 @@
 <div align="center">
   <h3>GitHub Stats</h3>
   <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AdrianKoll&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=32CD32&text_color=FFF&border_radius=3&border_color=32CD32&icon_color=32CD32&theme=jolly" alt="GitHub stats" style="border: 3px solid #32CD32;">
 
-  <a href="https://github.com/mari4souza/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AdrianKoll&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=32CD32&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=32CD32&count_private=true" alt="Most Used Languages" style="border: 3px solid #32CD32;">
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdrianKoll&theme=github_dark" alt="GitHub stats" style="border: 3px solid #32CD32;">
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AdrianKoll&theme=github_dark" alt="Most Used Languages" style="border: 3px solid #32CD32;">
 </div>
+
 
 #
 
