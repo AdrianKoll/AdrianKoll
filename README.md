@@ -14,20 +14,28 @@
 
 ---
 
+<div align="center">
+
 ## 🚀 Sobre mim
+
+</div>
 
 Desenvolvedor e estudante de **Engenharia de Software**, com experiência prática criando e comercializando sistemas para uso real.
 
 Crio aplicações para pequenos negócios com foco em:
 
-- gestão operacional
-- controle financeiro
-- automação de processos
-- dashboards e relatórios
+- gestão operacional  
+- controle financeiro  
+- automação de processos  
+- dashboards e relatórios  
 
 ---
 
+<div align="center">
+
 ## 🔥 Projetos principais
+
+</div>
 
 > Sistemas desenvolvidos para resolver problemas reais
 
@@ -71,7 +79,11 @@ Sistema desktop para gestão de estoque, produtos e movimentações.
 
 ---
 
+<div align="center">
+
 ## 🛠️ Stack principal
+
+</div>
 
 <div align="center">
 
@@ -81,7 +93,11 @@ Sistema desktop para gestão de estoque, produtos e movimentações.
 
 ---
 
+<div align="center">
+
 ## 📊 GitHub Stats
+
+</div>
 
 <div align="center">
 
@@ -92,7 +108,11 @@ Sistema desktop para gestão de estoque, produtos e movimentações.
 
 ---
 
+<div align="center">
+
 ## 🐍 Contribuições
+
+</div>
 
 <div align="center">
 
@@ -106,7 +126,11 @@ Sistema desktop para gestão de estoque, produtos e movimentações.
 
 ---
 
+<div align="center">
+
 ## 📫 Contato direto
+
+</div>
 
 <div align="center">
 
