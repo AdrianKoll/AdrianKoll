@@ -1,61 +1,86 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=32CD32&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=32CD32&center=true&vCenter=true&random=false&width=600&lines=%E2%8A%B9+Welcome+to+my+profile!+%E2%8A%B9;Python+%7C+Flask+%7C+Web+Applications;Building+real-world+software+solutions" alt="Typing SVG">
   </a>
 </div>
 
-<img align="center" alt="" src="./">
+#
+
+<h1 align="center">Olá, eu sou Adrian Kauã 👋</h1>
+
+<p align="center">
+  Desenvolvedor Python (Flask) e estudante de Engenharia de Software, focado em aplicações web, backend e soluções para problemas reais.
+</p>
+
+<p align="center">
+  Tenho experiência prática criando e vendendo sistemas para cenários reais, incluindo controle financeiro, gestão operacional, estoque e automação.
+</p>
 
 #
 
-<p align="center">estudante de Engenharia de Software na Faculdade Anhanguera. Tenho paixão por tecnologia e estou sempre em busca de aprender mais e aplicar meus conhecimentos em projetos práticos. Atualmente, foco no desenvolvimento back-end, front-end e full-stack, explorando ferramentas modernas e melhores práticas no mundo da programação.</p>
+## 🚀 Projetos principais
+
+- **ServiceFlow** — Sistema web para gestão operacional, serviços e fluxo financeiro.
+- **CashFlow / CFC Flow** — Sistema para controle de caixa, entradas, saídas e relatórios financeiros.
+- **Vehicle Access Manager** — Aplicação para registro e consulta de acesso de veículos.
+- **Inventory Manager V2** — Sistema desktop para gestão de estoque com Python e SQLite.
 
 #
+
+## 🛠️ Stack principal
 
 <div align="center">
-  <h3>Connect with me!</h3>
-  <p>
-    <a href="mailto:meduardacardoso.121@gmail.com">
-      <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=32CD32&color:FFF" alt="Email Badge"/>
-    </a>
-    <a href="https://www.linkedin.com/in/adrian-kaua/">
-      <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=32CD32&color:FFF" alt="LinkedIn Badge"/>
-    </a>
-  </p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" alt="Python" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="28" alt="Flask" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="28" alt="HTML5" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="28" alt="CSS3" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="28" alt="JavaScript" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="28" alt="MySQL" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="28" alt="PostgreSQL" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28" alt="Git" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="28" alt="Kotlin" />
+</div>
 
-  <h3>My Stack</h3>
-  <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo" />
-    <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo" />
-    <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo" />
-    <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo" />
-    <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo" />
-    <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo" />
-    <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" alt="postgresql logo" />
-    <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25" alt="git logo" />
-    <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="25" alt="kotlin logo" />
+#
 
-  </div>
+## 📌 Sobre meu trabalho
+
+- Desenvolvimento de aplicações web com **Python, Flask, HTML, CSS e JavaScript**.
+- Modelagem de banco de dados com **SQLite, MySQL e PostgreSQL**.
+- Criação de dashboards, autenticação, controle de acesso e relatórios.
+- Experiência prática com projetos usados em cenários reais.
+- Interesse em evolução de produtos para modelos SaaS.
+
+#
+
+## 📫 Connect with me
+
+<div align="center">
+  <a href="mailto:adriankaua0233@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=32CD32" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/adrian-koll/">
+    <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=32CD32" alt="LinkedIn"/>
+  </a>
+</div>
 
 #
 
 <div align="center">
   <h3>GitHub Stats</h3>
-  <br>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdrianKoll&theme=github_dark" alt="GitHub stats" style="border: 3px solid #32CD32;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdrianKoll&theme=github_dark" alt="GitHub stats">
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AdrianKoll&theme=github_dark" alt="Most Used Languages" style="border: 3px solid #32CD32;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AdrianKoll&theme=github_dark" alt="Most Used Languages">
 </div>
-
 
 #
 
