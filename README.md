@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=32CD32&center=true&vCenter=true&width=760&lines=Adrian+Kau%C3%A3+%7C+Python+Backend+Developer;FastAPI+%7C+Flask+%7C+Django;APIs+REST+%7C+Databases+%7C+Automation" alt="Animação de apresentação" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=32CD32&center=true&vCenter=true&width=760&lines=Adrian+Kau%C3%A3+%7C+Python+Back-End+Developer;FastAPI+%7C+Django+%7C+Flask+%7C+PostgreSQL;Docker+%7C+APIs+REST+%7C+React+%26+TypeScript" alt="Animação de apresentação" />
 
 <br>
 
 # Adrian Kauã
 
-### Desenvolvedor Backend Python
+### Desenvolvedor Back-End Python Júnior / Trainee
 
 </div>
 
@@ -21,9 +21,9 @@
 
 </div>
 
-Estudante de **Engenharia de Software** e desenvolvedor backend Python, com experiência prática no desenvolvimento, entrega e manutenção de sistemas para clientes.
+Graduando em **Engenharia de Software** (conclusão em dez/2026) com foco em **Desenvolvimento Back-End Python**, configuração de ambientes e entrega de soluções funcionais.
 
-Foco em **Python, APIs REST e bancos de dados relacionais**, utilizando frameworks e ferramentas adequados às necessidades de cada aplicação.
+Desde 2024, atuo como desenvolvedor freelancer conduzindo levantamento de requisitos, estruturação de projetos em camadas, configuração de containers com **Docker**, integração com bancos de dados relacionais (**PostgreSQL** e **SQLite**) e desenvolvimento de interfaces com **React e TypeScript**. Busco oportunidade de início imediato para evoluir continuamente na base de código em equipe.
 
 ---
 
@@ -34,7 +34,7 @@ Foco em **Python, APIs REST e bancos de dados relacionais**, utilizando framewor
   Tecnologias
 </h3>
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,django,html,css,js,mysql,postgres,sqlite,docker,git,github,kotlin,java" alt="Tecnologias utilizadas" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,postgres,sqlite,docker,react,ts,git,github" alt="Tecnologias utilizadas" />
 
 </div>
 
@@ -82,8 +82,11 @@ Foco em **Python, APIs REST e bancos de dados relacionais**, utilizando framewor
 <a href="mailto:adriankaua0233@gmail.com">
   <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=32CD32" alt="E-mail" />
 </a>
-<a href="https://www.linkedin.com/in/adrian-koll/">
+<a href="https://www.linkedin.com/in/adrian-kaua/">
   <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=32CD32" alt="LinkedIn" />
+</a>
+<a href="https://adriankoll.github.io/My_Portfolio">
+  <img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=githubpages&logoColor=32CD32" alt="Portfólio" />
 </a>
 
 </div>
